@@ -10,15 +10,6 @@
 - accept el as argument
 - invoke and pass each span el in iteration
 
-```js
-const updateCount = (el) => {
-  const value = parseInt(el.dataset.value);
-  const increment = Math.ceil(value / 1000);
-  let initialValue = 0;
-};
-```
-
-```js
 const updateCount = (el) => {
   const value = parseInt(el.dataset.value);
   const increment = Math.ceil(value / 1000);
