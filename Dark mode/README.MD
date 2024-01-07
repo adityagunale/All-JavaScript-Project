@@ -6,11 +6,6 @@
 
 
 
-- import moment.js
-- format date
-
-## Author
-
 - Portfolio - [@mraditya1999](https://www.adityayadav.live)
 - Twitter - [@mraditya1999](https://twitter.com/mraditya1999)
 - Linkedin - [@mraditya1999](https://www.linkedin.com/in/mraditya1999/)
