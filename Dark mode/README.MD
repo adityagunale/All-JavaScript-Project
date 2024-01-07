@@ -4,14 +4,7 @@
 
 
 
-#### Import Data
 
-#### Display Articles
-
-- select articles
-- iterate over, return article.post for each article
-
-#### Format Date
 
 - import moment.js
 - format date
